@@ -5,6 +5,7 @@
 <br>
 <img src="https://github.com/ID56/Neural-Art/blob/master/images/vanafternoon.png">
 <br>
+Check out the <a href="https://github.com/ID56/Neural-Art/blob/master/VanGoghAfternoon.ipynb">notebook</a>.
 <br>
 <h3>Tools/Libraries used</h3>
 <ul>
