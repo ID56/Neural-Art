@@ -1,4 +1,5 @@
 # Neural-Art
-Neural Style Transfer to generate some groovy art
+<p>Neural Style Transfer to generate some groovy art.</p>
 
-<img src="https://github.com/ID56/Neural-Art/blob/master/images/vangogh.png">
+<p>This is an example outcome of the program: An afternoon scenery painted in Van Gogh's brushstrokes.
+<img src="https://github.com/ID56/Neural-Art/blob/master/images/vanafternoon.png">
